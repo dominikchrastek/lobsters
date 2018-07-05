@@ -1,0 +1,1 @@
+{"version":3,"sources":["index.css"],"names":[],"mappings":"AAAA,WACE,mBACA,iCAAqC,CACtC","file":"static/css/main.faaecf05.css","sourcesContent":["@font-face {\n  font-family: \"PTSans\";\n  src: url(\"./theme/fonts/PTSans.ttc\");\n}\n\n\n\n// WEBPACK FOOTER //\n// ./src/index.css"],"sourceRoot":""}
